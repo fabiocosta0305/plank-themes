@@ -5,7 +5,7 @@
 #The roundness of the top corners.
 TopRoundness=7
 #The roundness of the bottom corners.
-BottomRoundness=2
+BottomRoundness=0
 #The thickness (in pixels) of lines drawn.
 LineWidth=0
 #The color (RGBA) of the outer stroke.

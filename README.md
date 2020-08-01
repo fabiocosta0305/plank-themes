@@ -1,3 +1,6 @@
+# These are being reworked and new themes are going to be added.  New files are in the rework branch
+`git clone -b rework https://github.com/kennyh7279/plank-themes.git`
+
 ## My plank themes
 place folders into `.local/share/plank/themes`
 

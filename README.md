@@ -8,18 +8,21 @@ I am reworking these themes based on the updated elementary stylesheet as well a
 
 ---
 
-# These are being reworked and new themes are going to be added.  New files are in the rework branch
-`git clone -b rework https://github.com/kennyh7279/plank-themes.git`
+### Screenshots
 
+#### Nordic
+![Nordic](screenshots/Nordic.png)
 
-## My plank themes
-place folders into `.local/share/plank/themes`
-
-#### Anti-Shade
-![anti-shade](https://raw.githubusercontent.com/KenHarkey/plank-themes/master/screenshots/anti-shade.png)
-
-#### Paperterial
-![paperterial](https://raw.githubusercontent.com/KenHarkey/plank-themes/master/screenshots/paperterial.png)
+#### Nordic Light
+![Nordic Light](screenshots/Nordic-Light.png)
 
 #### Shade
-![shade](https://raw.githubusercontent.com/KenHarkey/plank-themes/master/screenshots/shade.png)
+![shade](screenshots/Shade.png)
+
+#### Anti-Shade
+![anti-shade](screenshots/Anti-Shade.png)
+
+#### Paperterial
+![paperterial](screenshots/Paperterial.png)
+
+

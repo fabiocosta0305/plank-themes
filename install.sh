@@ -54,6 +54,7 @@ cp -ur shade $DEST_DIR
 cp -ur paperterial $DEST_DIR
 cp -ur nordic $DEST_DIR
 cp -ur nordic-light $DEST_DIR
+cp -ur y-ru $DEST_DIR
 echo -e "Installation complete!"
 }
 

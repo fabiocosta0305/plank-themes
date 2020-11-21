@@ -52,6 +52,8 @@ echo -e "Installing ..."
 cp -ur anti-shade $DEST_DIR
 cp -ur shade $DEST_DIR
 cp -ur paperterial $DEST_DIR
+cp -ur nordic $DEST_DIR
+cp -ur nordic-light $DEST_DIR
 echo -e "Installation complete!"
 }
 

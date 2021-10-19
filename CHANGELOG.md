@@ -20,3 +20,8 @@ Updated each theme so they are now consistant in shape between them.
 Added borders to each for better readibility on dark and light backgrounds.  
 Renamed Nordic to Nordic-Night and Nordic-Light to Nordic-Snow.  
 
+## (2021-10-19)  
+  
+Updated installer script to properly create folders if they don't exist.
+Installer now uses zenity instead of being just cli based.
+
